@@ -1,0 +1,29 @@
+<apex:page sidebar="False">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="949.43">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 28.0px Arial; color: #00375e}
+    p.p2 {margin: 0.0px 0.0px 13.0px 0.0px; font: 16.0px Arial}
+    p.p3 {margin: 0.0px 0.0px 13.0px 0.0px; font: 16.0px Arial}
+  </style>
+</head>
+<body>
+<p class="p1">Recruiting<br>
+<br>
+<p class="p3">From the creation of a new position through the interviews aimed at filling it, Recruiting for AppExchange offers a basic format for tracking your company’s evaluation of potential employees. It gives you a single location from which to manage the scheduling of candidate interviews and the posting of jobs on employment websites, plus you’ll be able to easily see what kind of progress you’re making toward filling a particular position.<br>
+
+<p class="p3">Recruiting gives hiring managers and recruiters at small to medium-sized companies one place they can go to monitor the candidate pipeline and see listings of positions and candidates. By deploying it, your company can extend its salesforce.com solution to gather measurable data to better target its recruiting efforts.<br>
+
+<p class="p3">Hint: There is another application in the AppExchange called Recruiting Manager that monitors a more formal hiring process. Feel free to compare the two apps.</p>
+<p class="p2"> </p>
+
+</body>
+</html>
+
+</apex:page>
